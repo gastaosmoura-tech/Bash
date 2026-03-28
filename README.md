@@ -10,3 +10,10 @@ This repository documents my research, analysis, and observations on the cryptoc
 
 ## Objective
 To track opportunities, improve decision-making, and build a structured approach to crypto investing.
+
+## Market Observations
+
+### 28/03
+- BTC showing resilience despite macro pressure
+- ETH underperforming vs BTC
+- Market still sensitive to US economic data releases
