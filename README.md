@@ -1,5 +1,3 @@
-# Bash
-
 # Crypto Notes 📊
 
 This repository documents my research, analysis, and observations on the cryptocurrency market.
