@@ -17,3 +17,6 @@ To track opportunities, improve decision-making, and build a structured approach
 - BTC showing resilience despite macro pressure
 - ETH underperforming vs BTC
 - Market still sensitive to US economic data releases
+
+## Notes
+These are personal observations and not financial advice.
